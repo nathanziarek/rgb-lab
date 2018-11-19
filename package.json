@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nathanziarek/rgb-lab.git"
+    "url": "git+https://github.com/antimatter/rgb-lab.git"
   },
   "keywords": [
     "color",
     "lab",
     "cielab"
   ],
-  "author": "",
+  "author": "Kevin Kwok",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nathanziarek/rgb-lab/issues"
+    "url": "https://github.com/antimatter/rgb-lab/issues"
   },
-  "homepage": "https://github.com/nathanziarek/rgb-lab#readme"
+  "homepage": "https://github.com/antimatter/rgb-lab#readme"
 }
