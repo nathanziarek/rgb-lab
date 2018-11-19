@@ -1,7 +1,7 @@
 {
   "name": "rgb-lab",
   "version": "1.0.0",
-  "description": "Some LAB color functions",
+  "description": "RGB to LAB and LAB to RGB color functions.",
   "main": "color.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
