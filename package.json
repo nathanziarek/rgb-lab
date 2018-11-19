@@ -1,0 +1,24 @@
+{
+  "name": "rgb-lab",
+  "version": "1.0.0",
+  "description": "Some LAB color functions",
+  "main": "color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanziarek/rgb-lab.git"
+  },
+  "keywords": [
+    "color",
+    "lab",
+    "cielab"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanziarek/rgb-lab/issues"
+  },
+  "homepage": "https://github.com/nathanziarek/rgb-lab#readme"
+}
