@@ -1,6 +1,6 @@
 {
   "name": "rgb-lab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RGB to LAB and LAB to RGB color functions.",
   "main": "color.js",
   "scripts": {
